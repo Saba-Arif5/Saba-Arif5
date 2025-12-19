@@ -45,5 +45,5 @@ A collection of core data analysis workflows including data cleaning, dataset me
 
 ---
 
-## 🎯 Academic Goal
+## Academic Goal
 To pursue a graduate program in data science where I can deepen my analytical skills, engage in research-driven problem solving, and apply data science techniques to real-world societal challenges.
