@@ -1,4 +1,4 @@
-# Hi, I’m Saba Arif 👋
+# Hi, I’m Saba Arif
 
 I am a data analyst with a strong foundation in Python and applied data science, focused on transforming raw data into meaningful insights through structured analysis and modeling. My work emphasizes exploratory data analysis, time-series analysis, and interpretable machine learning on real-world datasets.
 
